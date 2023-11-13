@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a new and improved Portfolio Website!**
 
-- 🌱 I’m currently learning **to master my skills in frontend development**
+- 🌱 I’m currently learning **IOS App Development**
 
 - 👯 I’m looking to collaborate on [musaic](https://github.com/ryanido/musaic)
 
