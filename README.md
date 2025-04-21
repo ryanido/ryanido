@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A web engineer, student, and seeker of knowledge from Dublin, Ireland 🇮🇪.</h3>
+<h3 align="center">A software engineer from Dublin, Ireland 🇮🇪.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanido&label=Profile%20views&color=0e75b6&style=flat" alt="ryanido" /> </p>
 
@@ -7,13 +7,7 @@
 
 - 🔭 I’m currently working on **a new and improved Portfolio Website!**
 
-- 🌱 I’m currently learning **IOS App Development**
-
-- 👯 I’m looking to collaborate on [musaic](https://github.com/ryanido/musaic)
-
-- 👨‍💻 Most of my projects are available at [https://ryanido.github.io/Portfolio/](https://ryanido.github.io/Portfolio/)
-
-- 💬 Ask me about **reactjs & css**
+- 🌱 I’m currently learning **to get better at full-stack development**
 
 - 📫 How to reach me **ryanidowu@gmail.com**
 
